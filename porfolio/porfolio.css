@@ -12,7 +12,7 @@
     height: 50px;
     width: 3px;
     position: absolute;
-       top: 310px;
+       top: 335px;
     left: 0;
     background-color: #454545;
 }
@@ -169,6 +169,133 @@
     height: 100%;
      animation: im 1s;
 }
+
+.lmg12{
+    background: url('images/bshift11.jpeg') no-repeat;
+    background-size:cover;
+    height: 100%;
+     animation: im 1s;
+}
+.lmg121{
+    background: url('images/bshift12.jpeg') no-repeat;
+    background-size:cover;
+    height: 100%;
+     animation: im 1s;
+}
+
+.lmg13{
+    background: url('images/bshift11.jpeg') no-repeat;
+    background-size:cover;
+    height: 100%;
+     animation: im 1s;
+}
+.lmg131{
+    background: url('images/bshift12.jpeg') no-repeat;
+    background-size:cover;
+    height: 100%;
+     animation: im 1s;
+}
+.lmg14{
+    background: url('images/bshift11.jpeg') no-repeat;
+    background-size:cover;
+    height: 100%;
+     animation: im 1s;
+}
+.lmg141{
+    background: url('images/bshift12.jpeg') no-repeat;
+    background-size:cover;
+    height: 100%;
+     animation: im 1s;
+}
+.lmg15{
+    background: url('images/bshift11.jpeg') no-repeat;
+    background-size:cover;
+    height: 100%;
+     animation: im 1s;
+}
+.lmg151{
+    background: url('images/bshift12.jpeg') no-repeat;
+    background-size:cover;
+    height: 100%;
+     animation: im 1s;
+}
+.lmg16{
+    background: url('images/bshift11.jpeg') no-repeat;
+    background-size:cover;
+    height: 100%;
+     animation: im 1s;
+}
+.lmg161{
+    background: url('images/bshift12.jpeg') no-repeat;
+    background-size:cover;
+    height: 100%;
+     animation: im 1s;
+}
+.lmg17{
+    background: url('images/bshift11.jpeg') no-repeat;
+    background-size:cover;
+    height: 100%;
+     animation: im 1s;
+}
+.lmg171{
+    background: url('images/bshift12.jpeg') no-repeat;
+    background-size:cover;
+    height: 100%;
+     animation: im 1s;
+}
+
+.lmg18{
+    background: url('images/bshift11.jpeg') no-repeat;
+    background-size:cover;
+    height: 100%;
+     animation: im 1s;
+}
+.lmg181{
+    background: url('images/bshift12.jpeg') no-repeat;
+    background-size:cover;
+    height: 100%;
+     animation: im 1s;
+}
+.lmg19{
+    background: url('images/bshift11.jpeg') no-repeat;
+    background-size:cover;
+    height: 100%;
+     animation: im 1s;
+}
+.lmg191{
+    background: url('images/bshift12.jpeg') no-repeat;
+    background-size:cover;
+    height: 100%;
+     animation: im 1s;
+}
+.lmg20{
+    background: url('images/bshift11.jpeg') no-repeat;
+    background-size:cover;
+    height: 100%;
+     animation: im 1s;
+}
+.lmg201{
+    background: url('images/bshift12.jpeg') no-repeat;
+    background-size:cover;
+    height: 100%;
+     animation: im 1s;
+}
+
+.lmg21{
+    background: url('images/bshift11.jpeg') no-repeat;
+    background-size:cover;
+    height: 100%;
+     animation: im 1s;
+}
+.lmg211{
+    background: url('images/bshift12.jpeg') no-repeat;
+    background-size:cover;
+    height: 100%;
+     animation: im 1s;
+}
+.flimg{
+    height: 100%;
+}
 .mnghed{
     display: flex;
     flex-direction: row;
@@ -188,7 +315,7 @@
 }
 .mang-hd{
     padding: 0px 10px;
-    margin-bottom: 30px;
+        margin-bottom: : 30px;
 }
 .mang-hd p{
     margin-bottom: 0;
@@ -433,3 +560,57 @@
     background: #454545;
     cursor: pointer;
 }
+@media(max-width:600px){
+    .mang-hd {
+    
+    margin: 30px 0px;
+}
+}
+@media(max-width:800px){
+    .pronav {
+    margin-left:0px;
+   
+}
+}
+.dmenu p{
+    font-weight: 600;
+}
+
+
+/*before-after*/
+
+    .bn-af{
+    position: absolute;
+    top: 0;
+    display: flex;
+    width: 100%;
+    border: 1px olid;
+    background: #ffffff57;
+    }
+    
+  .bff{
+    width: 50%;
+    padding: 5px 0px;
+    border: 0;
+    background: none;
+    border-bottom: 2px solid #23527c;
+    color: #23527c;
+    font-size: 18px;
+    font-weight: 600;
+      
+}
+    .aff {
+    width: 50%;
+    padding: 5px 0px;
+    border: 0;
+    background: none;
+    border-bottom: 2px solid #ddd;
+    color: #fcfcfc;
+    font-size: 18px;
+    font-weight: 600;
+}
+    button:focus{
+        outline: none;
+    }
+
+/*before-after*/
