@@ -1188,3 +1188,65 @@ display: flex;}
 .button-list .button:last-of-type {
 	margin-right: 0;
 }
+
+
+/*s: clients*/
+.btall div{border: 1px olid}
+.bblock{background-color: #ffffff;}
+.btall{width: 100%; height: auto; opacity: 1; border: 1px olid black;animation-name: tsani;animation-duration: 1s; animation-fill-mode: forwards;display: flex;justify-content: space-around;align-items: cener;flex-wrap: wrap;margin: 00px 0px;padding-bottom: 10px;position: relative;}
+.bt2{border-color: red;}
+.bt3{border-color:green;}
+.btall div{display: flex;flex-direction: column;justify-content: center;align-items: center;margin: 15px px;width: 130px}
+.btall div p{text-align: center;}
+.btall img{width: 110px;border: 1px olid;display: block;}
+.clihd{font-size: 23px;text-align: center;margin-bottom: 10px;border: 1px olid;padding: 0px 5px;20px;}
+
+
+@media screen and (min-width:340px){
+  .btall img{width: 130px;border: 1px olid;display: block;}  
+  
+}
+@media screen and (min-width:400px){
+  .btall img{width: 100px;border: 1px olid;display: block;} 
+    .btall div{width: 150px}
+  
+}
+@media screen and (min-width:450px){
+  .btall img{width: 100px;border: 1px olid;display: block;}  
+       .btall div{width: 100px}
+  
+}
+  @media screen and (min-width:550px){
+  .btall img{width: 130px;border: 1px olid;display: block;}  
+           .btall div{width: 150px;margin: 10px 20px}
+      
+  
+}
+  @media screen and (min-width:1000px){
+  .btall img{width: 130px;border: 1px olid;display: block;margin: 0px 30px;}  
+      .btall{justify-content: center;}
+      .clihd{font-size: 35px;
+}
+  
+}
+
+.swit_con{width: 100%;background-color: #ffffff;}
+  
+.bswitch{width: 40%; height: 50px;border: 1px olid;margin: auto;margin-top: 0px;display: flex;justify-content: space-between;align-items: center;}
+.bswit,.bswit{width: 20px; height: 20px; border-radius: 50%; background-color: #454545;display: flex;}
+.bsin,.bsin{width: 10px; height: 10px;background-color: #454545;border-radius: 50%;margin: auto;border: 3px solid #fcfcfc;box-sizing: content-box}
+
+
+@keyframes tsani{
+    from{opacity: 0;top: 25px; }
+     to{opacity: 1;top: 0px; }
+    
+}
+
+@media screen and (min-width:600px){
+    .bswitch{width: 150px;}
+    
+}
+
+
+/*e: clients*/
