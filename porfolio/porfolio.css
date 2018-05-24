@@ -46,75 +46,75 @@
     100%{opacity: 1;}
 }
 .lmg21{
-    background: url('images/tmp1.jpg') no-repeat;
+    background: url('images/tup-a12.JPG') no-repeat;
     background-size:cover;
     height: 100%;
     animation: im 1s;
 }
 .lmg2{
-    background: url('images/tmpl2.jpg') no-repeat;
+    background: url('images/logoup/tup-a11.jpg') no-repeat;
     background-size:cover;
     height: 100%;
      animation: im 1s;
 }
 .lmg3{
-    background: url('images/ban%20(9).jpeg') no-repeat;
+    background: url('images/logoup/bup%20b12.jpg') no-repeat;
     background-size:cover;
     height: 100%;
      animation: im 1s;
 }
 .lmg31{
-    background: url('images/bup1.jpeg') no-repeat;
+    background: url('images/logoup/bup%20b11.jpg') no-repeat;
     background-size:cover;
     height: 100%;
      animation: im 1s;
 }
 .lmg4{
-    background: url('images/bup2a.jpeg') no-repeat;
+    background: url('images/logoup/bup%2021.png') no-repeat;
     background-size:cover;
     height: 100%;
      animation: im 1s;
 }
 .lmg41{
-    background: url('images/bup2b.jpeg') no-repeat;
+    background: url('images/bup%2021.JPG') no-repeat;
     background-size:cover;
     height: 100%;
     animation: im 1s;
 }
 .lmg5{
-    background: url('images/.jpeg') no-repeat;
+    background: url('images/logoup/bup%2042.jpg') no-repeat;
     background-size:cover;
     height: 100%;
      animation: im 1s;
 }
 .lmg51{
-    background: url('images/bup3.jpeg') no-repeat;
+    background: url('images/logoup/bup%2041.jpg') no-repeat;
     background-size:cover;
     height: 100%;
      animation: im 1s;
 }
 
 .lmg6{
-    background: url('images/ban%20(8).jpeg') no-repeat;
+    background: url('images/logoup/bup52.jpg') no-repeat;
     background-size:cover;
     height: 100%;
      animation: im 1s;
 }
 .lmg61{
-    background: url('images/bup4.jpeg') no-repeat;
+    background: url('images/logoup/bup51.jpg') no-repeat;
     background-size:cover;
     height: 100%;
      animation: im 1s;
 }
 
 .lmg7{
-    background: url('images/bup51.jpeg') no-repeat;
+    background: url('images/logoup/bup%20a62.jpg') no-repeat;
     background-size:cover;
     height: 100%;
      animation: im 1s;
 }
 .lmg71{
-    background: url('images/bup52.jpeg') no-repeat;
+    background: url('images/logoup/bup%20a61.jpg') no-repeat;
     background-size:cover;
     height: 100%;
      animation: im 1s;
@@ -127,20 +127,20 @@
      animation: im 1s;
 }
 .lmg81{
-    background: url('images/bup72.jpg') no-repeat;
+    background: url('images/logoup/bup%2071.jpg') no-repeat;
     background-size:cover;
     height: 100%;
      animation: im 1s;
 }
 
 .lmg9{
-    background: url('images/bup81.jpg') no-repeat;
+    background: url('images/logoup/shift-12.jpg') no-repeat;
     background-size:cover;
     height: 100%;
      animation: im 1s;
 }
 .lmg91{
-    background: url('images/bup82.jpg') no-repeat;
+    background: url('images/logoup/shift-11.jpg') no-repeat;
     background-size:cover;
     height: 100%;
      animation: im 1s;
@@ -152,7 +152,7 @@
      animation: im 1s;
 }
 .lmg101{
-    background: url('images/bup91.jpeg') no-repeat;
+    background: url('images/logoup/shift-21.jpg') no-repeat;
     background-size:cover;
     height: 100%;
      animation: im 1s;
@@ -184,13 +184,13 @@
 }
 
 .lmg13{
-    background: url('images/bshift11.jpeg') no-repeat;
+    background: url('images/logoup/bup%20a12.jpg') no-repeat;
     background-size:cover;
     height: 100%;
      animation: im 1s;
 }
 .lmg131{
-    background: url('images/bshift12.jpeg') no-repeat;
+    background: url('images/logoup/bup%20a11.jpg') no-repeat;
     background-size:cover;
     height: 100%;
      animation: im 1s;
@@ -232,13 +232,13 @@
      animation: im 1s;
 }
 .lmg17{
-    background: url('images/bshift11.jpeg') no-repeat;
+    background: url('images/logoup/bup%20b61.jpg') no-repeat;
     background-size:cover;
     height: 100%;
      animation: im 1s;
 }
 .lmg171{
-    background: url('images/bshift12.jpeg') no-repeat;
+    background: url('images/logoup/bup%20b61.jpg') no-repeat;
     background-size:cover;
     height: 100%;
      animation: im 1s;
@@ -251,7 +251,7 @@
      animation: im 1s;
 }
 .lmg181{
-    background: url('images/bshift12.jpeg') no-repeat;
+    background: url('images/logoup/bup%2071.jpg') no-repeat;
     background-size:cover;
     height: 100%;
      animation: im 1s;
@@ -281,7 +281,7 @@
      animation: im 1s;
 }
 
-.lmg21{
+.lmg221{
     background: url('images/bshift11.jpeg') no-repeat;
     background-size:cover;
     height: 100%;
@@ -443,6 +443,7 @@
     }
     .mangtxt{
         padding: 50px;
+        height: 350px;
     }
     
 }

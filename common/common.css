@@ -127,7 +127,7 @@ body.home  .dmn1 span{width: 60px;}
 
 .main_menu{display: none;}
 #inlogo{position: absolute; left:2%;top: -10px }
-#inlogo_m{border: 1px olid black; width: 55px; height: 55px; margin: auto; display: block; padding-top: 10px; box-sizing: content-box;  }
+#inlogo_m{border: 1px olid black; /*width: 55px;*/ height: 55px; margin: auto; display: block; padding-top: 10px; box-sizing: content-box;  }
 
 /* s: menu lines ani */
 #nav_line{transform: rotate(00deg)}

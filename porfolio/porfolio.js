@@ -7,9 +7,9 @@ dot1.addEventListener("click",function(){
 dot2.addEventListener("click",function(){
                       slde(2);},false);
 
-function slde(a){
-    console.log(a);
-    if(a == 1){
+function slde(aa){
+   /* console.log(a);*/
+    if(aa == 1){
         dot1.style.background="#ffcc33";
         dot1.style.border="1px solid #ffcc33";
         
@@ -23,7 +23,7 @@ function slde(a){
         
         
     }
-    else if(a == 2){
+    else if(aa == 2){
         dot2.style.background="#ffcc33";
         dot2.style.border="1px solid #ffcc33";
         
@@ -404,7 +404,7 @@ function slde10(g){
 slde10(1);
 
 var dot23 = document.getElementById("dot23");
-var dot24 = document.getElementById("dot22");
+var dot24 = document.getElementById("dot24");
 
 dot23.addEventListener("click",function(){
                       slde11(1);},false);
@@ -775,7 +775,7 @@ function clcky(g){
         manage[6].style.display="flex";
         manage[7].style.display="flex";
         manage[8].style.display="flex";
-        manage[9].style.display="flex";
+       /* manage[9].style.display="flex";*/
         
         
         actab[0].style.opacity="1";
@@ -795,8 +795,8 @@ function clcky(g){
         manage[5].style.display="flex";
         manage[6].style.display="flex";
         manage[7].style.display="flex";
-        manage[8].style.display="flex";
-        manage[9].style.display="none";
+       /* manage[8].style.display="flex";*/
+        manage[8].style.display="none";
         
         
         actab[0].style.opacity="0";
@@ -814,9 +814,9 @@ function clcky(g){
         manage[4].style.display="none";
         manage[5].style.display="none";
         manage[6].style.display="none";
-        manage[7].style.display="none";
-        manage[8].style.display="none";
-        manage[9].style.display="flex";
+        manage[7].style.display="flex";
+       /* manage[8].style.display="none";*/
+        manage[8].style.display="flex";
         
         actab[0].style.opacity="0";
         actab[1].style.opacity="0";
@@ -834,8 +834,8 @@ function clcky(g){
         manage[5].style.display="none";
         manage[6].style.display="none";
         manage[7].style.display="none";
+       /* manage[8].style.display="none";*/
         manage[8].style.display="none";
-        manage[9].style.display="none";
         
         actab[0].style.opacity="0";
         actab[1].style.opacity="0";
