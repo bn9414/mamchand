@@ -81,7 +81,7 @@ body.home  .dmn1 span{width: 60px;}
     .lft-prt{
         display: flex;
         flex-direction: row;
-        width: 300px;border: 1px olid black;
+        width: 450px;border: 1px olid black;
        justify-content: space-between;
     }
 }

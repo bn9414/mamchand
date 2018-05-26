@@ -181,12 +181,12 @@ h2{
     height: 100%;
 }*/
 .lmg1{
-    background: url('images/house%20uplifting.jpeg') no-repeat;
+    background: url('images/house%20uplifting.jpg') no-repeat;
     background-size:cover;
     height: 100%;
 }
 .lmg2{
-    background: url('images/Building%20uplifting.jpeg') no-repeat;
+    background: url('images/Building%20uplifting.jpg') no-repeat;
     background-size:cover;
     height: 100%;
 }
@@ -196,7 +196,7 @@ h2{
     height: 100%;
 }
 .lmg4{
-    background: url('images/building%20shifting.jpeg') no-repeat;
+    background: url('images/building%20shifting.jpg') no-repeat;
     background-size:cover;
     height: 100%;
 }
